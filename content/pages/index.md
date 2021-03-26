@@ -7,7 +7,7 @@ sections:
       Sono una Logopedista che lavora a Mondovì e non solo, vieni da me sono
       CARINA.
     actions:
-      - label: Contact Me
+      - label: Contattami
         url: /contact
         style: primary
     image: images/claraprofilo.jpg
