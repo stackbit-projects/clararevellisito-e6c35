@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Ciao, sono Clara Revelli.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Sono una Logopedista che lavora a Mondovì e non solo, vieni da me sono
+      CARINA.
     actions:
       - label: Contact Me
         url: /contact
